@@ -1,7 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll", "~> 3.0"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem 'jekyll-mentions'
-gem 'jekyll-feed'
+gem 'github-pages'
+gem 'octopress', '~> 3.0.0.rc.12'
